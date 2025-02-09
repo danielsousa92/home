@@ -1,0 +1,461 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ Portugal TV ۩ ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png" group-title="Portugal Channels",### ۩ Portugal TV ۩ ###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/135933.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 FHD" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Portugal Channels",PT: RTP 1 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94605.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD HEVC" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Portugal Channels",PT: RTP 1 HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/147276.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 SD" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Portugal Channels",PT: RTP 1 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11419.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 FHD" tvg-logo="https://static.epg.best/pt/Rtp2.pt.png" group-title="Portugal Channels",PT: RTP 2 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94606.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 HD HEVC" tvg-logo="https://static.epg.best/pt/Rtp2.pt.png" group-title="Portugal Channels",PT: RTP 2 HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/186332.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 SD" tvg-logo="https://static.epg.best/pt/Rtp2.pt.png" group-title="Portugal Channels",PT: RTP 2 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11420.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC FHD" tvg-logo="https://static.epg.best/pt/Sic.pt.png" group-title="Portugal Channels",PT: SIC FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76200.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC HD HEVC" tvg-logo="https://static.epg.best/pt/Sic.pt.png" group-title="Portugal Channels",PT: SIC HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11413.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC SD" tvg-logo="https://static.epg.best/pt/Sic.pt.png" group-title="Portugal Channels",PT: SIC SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/186334.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI FHD" tvg-logo="https://static.epg.best/pt/Tvi.pt.png" group-title="Portugal Channels",PT: TVI FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11397.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI HD HEVC" tvg-logo="https://static.epg.best/pt/Tvi.pt.png" group-title="Portugal Channels",PT: TVI HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11395.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI SD" tvg-logo="https://static.epg.best/pt/Tvi.pt.png" group-title="Portugal Channels",PT: TVI SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/186333.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SIC Replay FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/SICReplay.png" group-title="Portugal Channels",PT: SIC Replay FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/208749.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ PT | News ۩###" tvg-logo="" group-title="Portugal Channels",### ۩ PT | News ۩###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76212.ts
+#EXTINF:-1 tvg-id="cnn.pt" tvg-name="PT: CNN FHD" tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="Portugal Channels",PT: CNN FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/147277.ts
+#EXTINF:-1 tvg-id="cnn.pt" tvg-name="PT: CNN HD" tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="Portugal Channels",PT: CNN HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11396.ts
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV FHD" tvg-logo="https://www.portugalmxgp.com/u-files/CMTV.png" group-title="Portugal Channels",PT: CMTV FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11443.ts
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV HD" tvg-logo="https://www.portugalmxgp.com/u-files/CMTV.png" group-title="Portugal Channels",PT: CMTV HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/105843.ts
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV SD" tvg-logo="https://www.portugalmxgp.com/u-files/CMTV.png" group-title="Portugal Channels",PT: CMTV SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76227.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: NOW FHD" tvg-logo="" group-title="Portugal Channels",PT: NOW FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172827.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC Notícias FHD" tvg-logo="https://static.epg.best/pt/SicNoticias.pt.png" group-title="Portugal Channels",PT: SIC Notícias FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94612.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: Sic Notícias HD" tvg-logo="https://static.epg.best/pt/SicNoticias.pt.png" group-title="Portugal Channels",PT: Sic Notícias HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11411.ts
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3 FHD" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="Portugal Channels",PT: RTP 3 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94607.ts
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3 HD" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="Portugal Channels",PT: RTP 3 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11421.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: TV Galícia FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/800px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Portugal Channels",PT: TV Galícia FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172808.ts
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP Memoria" tvg-logo="https://static.epg.best/pt/RtpMemoria.pt.png" group-title="Portugal Channels",PT: RTP Memoria
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11414.ts
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP Madeira" tvg-logo="https://static.epg.best/pt/RtpMadeira.pt.png" group-title="Portugal Channels",PT: RTP Madeira
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11415.ts
+#EXTINF:-1 tvg-id="rtpinternacional.pt" tvg-name="PT: RTP Internacional" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-internacional-pt.png" group-title="Portugal Channels",PT: RTP Internacional
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11416.ts
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP Africa" tvg-logo="https://static.epg.best/pt/RtpAfrica.pt.png" group-title="Portugal Channels",PT: RTP Africa
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11417.ts
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP Acores" tvg-logo="https://static.epg.best/pt/RtpAcores.pt.png" group-title="Portugal Channels",PT: RTP Acores
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11418.ts
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: AR TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ar-tv-pt.png" group-title="Portugal Channels",PT: AR TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76320.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ PT | Entertainment ۩ ###" tvg-logo="" group-title="Portugal Channels",### ۩ PT | Entertainment ۩ ###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76207.ts
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC Caras FHD" tvg-logo="https://static.epg.best/pt/SicCaras.pt.png" group-title="Portugal Channels",PT: SIC Caras FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94611.ts
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC Caras HD" tvg-logo="https://static.epg.best/pt/SicCaras.pt.png" group-title="Portugal Channels",PT: SIC Caras HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94610.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC Radical FHD" tvg-logo="https://static.epg.best/pt/SicRadical.pt.png" group-title="Portugal Channels",PT: SIC Radical FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94613.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC Radical HD" tvg-logo="https://static.epg.best/pt/SicRadical.pt.png" group-title="Portugal Channels",PT: SIC Radical HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11410.ts
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher FHD" tvg-logo="https://static.epg.best/pt/SicMulher.pt.png" group-title="Portugal Channels",PT: SIC Mulher FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76202.ts
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher HD" tvg-logo="https://static.epg.best/pt/SicMulher.pt.png" group-title="Portugal Channels",PT: SIC Mulher HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11412.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SIC Novelas HD" tvg-logo="https://tvindependenteblogueorg.files.wordpress.com/2023/03/sicnovelas.png" group-title="Portugal Channels",PT: SIC Novelas HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76325.ts
+#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="PT: Kuriakos TV" tvg-logo="https://static.epg.best/pt/KuriakosTv.pt.png" group-title="Portugal Channels",PT: Kuriakos TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/92841.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: V+ TVI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Portugal Channels",PT: V+ TVI FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172810.ts
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI Reality FHD" tvg-logo="https://static.epg.best/pt/TviReality.pt.png" group-title="Portugal Channels",PT: TVI Reality FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/147236.ts
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI Reality HD" tvg-logo="https://static.epg.best/pt/TviReality.pt.png" group-title="Portugal Channels",PT: TVI Reality HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11394.ts
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI Ficção FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/TVI_Fic%C3%A7%C3%A3o_logo.png/500px-TVI_Fic%C3%A7%C3%A3o_logo.png" group-title="Portugal Channels",PT: TVI Ficção FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/52680.ts
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI Ficção" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/TVI_Fic%C3%A7%C3%A3o_logo.png/500px-TVI_Fic%C3%A7%C3%A3o_logo.png" group-title="Portugal Channels",PT: TVI Ficção
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/104988.ts
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 Kitchen FHD" tvg-logo="https://static.epg.best/pt/24Kitchen.pt.png" group-title="Portugal Channels",PT: 24 Kitchen FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11458.ts
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT: TLC HD" tvg-logo="https://static.epg.best/pt/TLC.pt.png" group-title="Portugal Channels",PT: TLC HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11407.ts
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT: Cancao Nova HD" tvg-logo="https://static.epg.best/pt/CancaoNova.pt.png" group-title="Portugal Channels",PT: Cancao Nova HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11445.ts
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: Canal Q HD" tvg-logo="https://static.epg.best/pt/CanalQ.pt.png" group-title="Portugal Channels",PT: Canal Q HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11446.ts
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! Entertainment FHD" tvg-logo="https://static.epg.best/pt/EEntertainment.pt.png" group-title="Portugal Channels",PT: E! Entertainment FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/52683.ts
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! Entertainment HD" tvg-logo="https://static.epg.best/pt/EEntertainment.pt.png" group-title="Portugal Channels",PT: E! Entertainment HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11438.ts
+#EXTINF:-1 tvg-id="bbc.entertainment.pt" tvg-name="PT: BBC Entertainment" tvg-logo="https://static.epg.best/nl/BBCEntertainment.nl.png" group-title="Portugal Channels",PT: BBC Entertainment
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/52682.ts
+#EXTINF:-1 tvg-id="zapviva.pt" tvg-name="PT: ZAP Viva HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Portugal Channels",PT: ZAP Viva HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/146636.ts
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: Casa e Cozinha FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="Portugal Channels",PT: Casa e Cozinha FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/104989.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: DIZI FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dizi-us.png" group-title="Portugal Channels",PT: DIZI FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/55488.ts
+#EXTINF:-1 tvg-id="hgtv.pt" tvg-name="PT: Home & Garden TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/1200px-HGTV_logo.svg.png" group-title="Portugal Channels",PT: Home & Garden TV FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172796.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ PT | Music ۩ ###" tvg-logo="" group-title="Portugal Channels",### ۩ PT | Music ۩ ###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/146638.ts
+#EXTINF:-1 tvg-id="clubbingtvhd.pt" tvg-name="PT: Clubbing TV" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png" group-title="Portugal Channels",PT: Clubbing TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11459.ts
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="PT: MTV HD" tvg-logo="https://static.epg.best/pt/MTV.pt.png" group-title="Portugal Channels",PT: MTV HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11429.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: MTV FHD" tvg-logo="https://static.epg.best/pt/MTV.pt.png" group-title="Portugal Channels",PT: MTV FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76323.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: MTV Live FHD" tvg-logo="https://static.epg.best/pl/MTVLive.pl.png" group-title="Portugal Channels",PT: MTV Live FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76322.ts
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="PT: Trace Urban FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1280px-Trace_Urban_logo_2010.svg.png" group-title="Portugal Channels",PT: Trace Urban FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11405.ts
+#EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="PT: Trace Toca FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/38/Tracetoca2022.png" group-title="Portugal Channels",PT: Trace Toca FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172809.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Trace Brasil FHD" tvg-logo="https://pt.wikipedia.org/wiki/Trace_Brasil#/media/Ficheiro:Trace_Brasil_logo.PNG" group-title="Portugal Channels",PT: Trace Brasil FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172807.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Stingray Iconcerts FHD" tvg-logo="https://static.epg.best/fr/StingrayIconcerts.fr.png" group-title="Portugal Channels",PT: Stingray Iconcerts FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/187935.ts
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="PT: MCM Pop" tvg-logo="" group-title="Portugal Channels",PT: MCM Pop
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11432.ts
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="PT: Afro Music" tvg-logo="https://static.epg.best/pt/AfroMusicChannel.pt.png" group-title="Portugal Channels",PT: Afro Music
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11454.ts
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT: Mezzo" tvg-logo="https://static.epg.best/es/Mezzo.es.png" group-title="Portugal Channels",PT: Mezzo
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11430.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ PT | Movies ۩ ###" tvg-logo="" group-title="Portugal Channels",### ۩ PT | Movies ۩ ###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76206.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCine TOP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="Portugal Channels",PT: TVCine TOP FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11437.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCine TOP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" group-title="Portugal Channels",PT: TVCine TOP HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11423.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCine Emotion FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="Portugal Channels",PT: TVCine Emotion FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11339.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCine Emotion HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="Portugal Channels",PT: TVCine Emotion HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11337.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCine Edition FHD" tvg-logo="https://www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal Channels",PT: TVCine Edition FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94608.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCine Edition HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png" group-title="Portugal Channels",PT: TVCine Edition HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11338.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCine Action FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Portugal Channels",PT: TVCine Action FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11340.ts
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT: TVCine Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Portugal Channels",PT: TVCine Action HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11460.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY FHD" tvg-logo="https://static.epg.best/pt/Syfy.pt.png" group-title="Portugal Channels",PT: SYFY FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11409.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HD" tvg-logo="https://static.epg.best/pt/Syfy.pt.png" group-title="Portugal Channels",PT: SYFY HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/52732.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY SD" tvg-logo="https://static.epg.best/pt/Syfy.pt.png" group-title="Portugal Channels",PT: SYFY SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/52731.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CineMundo FHD" tvg-logo="http://www.cinemundo.pt/canalcinemundo/wp-content/uploads/2015/09/logo-canal1.png" group-title="Portugal Channels",PT: CineMundo FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76321.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CineMundo HD" tvg-logo="" group-title="Portugal Channels",PT: CineMundo HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11348.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CineMundo -d-" tvg-logo="http://www.cinemundo.pt/canalcinemundo/wp-content/uploads/2015/09/logo-canal1.png" group-title="Portugal Channels",PT: CineMundo -d-
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11341.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: Star Movies FHD" tvg-logo="https://play.xxx69.in/logos/starmovies.png" group-title="Portugal Channels",PT: Star Movies FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11342.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: Star Movies HD" tvg-logo="https://play.xxx69.in/logos/starmovies.png" group-title="Portugal Channels",PT: Star Movies HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94604.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: Star FHD" tvg-logo="https://play.xxx69.in/logos/starchannel.png" group-title="Portugal Channels",PT: Star FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/80794.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: Star HD" tvg-logo="https://play.xxx69.in/logos/starchannel.png" group-title="Portugal Channels",PT: Star HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11344.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: Star Life FHD" tvg-logo="https://play.xxx69.in/logos/starlife.png" group-title="Portugal Channels",PT: Star Life FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11343.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: Star Life HD" tvg-logo="https://play.xxx69.in/logos/starlife.png" group-title="Portugal Channels",PT: Star Life HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/150295.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: Star Crime FHD" tvg-logo="https://play.xxx69.in/logos/starcrime.png" group-title="Portugal Channels",PT: Star Crime FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/80795.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: Star Crime HD" tvg-logo="https://play.xxx69.in/logos/starcrime.png" group-title="Portugal Channels",PT: Star Crime HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11345.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: Star Comedy HD" tvg-logo="https://play.xxx69.in/logos/starcomedy.png" group-title="Portugal Channels",PT: Star Comedy HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94603.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: Star Comedy FHD" tvg-logo="https://play.xxx69.in/logos/starcomedy.png" group-title="Portugal Channels",PT: Star Comedy FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11346.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: Hollywood FHD" tvg-logo="http://client.more-itv.com:8080/images/be44d1338c574578e34399625614ada5.png" group-title="Portugal Channels",PT: Hollywood FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11434.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: Hollywood HD" tvg-logo="http://client.more-itv.com:8080/images/be44d1338c574578e34399625614ada5.png" group-title="Portugal Channels",PT: Hollywood HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/121633.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS Studios FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal Channels",PT: NOS Studios FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11448.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS Studios HD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal Channels",PT: NOS Studios HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/52733.ts
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="https://static.epg.best/pt/AMC.pt.png" group-title="Portugal Channels",PT: AMC FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/59074.ts
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC HD" tvg-logo="https://static.epg.best/pt/AMC.pt.png" group-title="Portugal Channels",PT: AMC HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172805.ts
+#EXTINF:-1 tvg-id="amccrime.pt" tvg-name="PT: AMC Crime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1280px-AMC_Crime.svg.png" group-title="Portugal Channels",PT: AMC Crime FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/175744.ts
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: AMC Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1280px-AMC_Crime.svg.png" group-title="Portugal Channels",PT: AMC Crime HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/175745.ts
+#EXTINF:-1 tvg-id="amcbreak.pt" tvg-name="PT: AMC Break FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Portugal Channels",PT: AMC Break FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/43239.ts
+#EXTINF:-1 tvg-id="amcbreak.pt" tvg-name="PT: AMC Break HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1024px-AMC_Break.svg.png" group-title="Portugal Channels",PT: AMC Break HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172806.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="https://static.epg.best/pt/AXN.pt.png" group-title="Portugal Channels",PT: AXN FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76317.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HD" tvg-logo="https://static.epg.best/pt/AXN.pt.png" group-title="Portugal Channels",PT: AXN HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11350.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN Movies FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/AXN_MOVIES.png" group-title="Portugal Channels",PT: AXN Movies FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11351.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN Movies HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/AXN_MOVIES.png" group-title="Portugal Channels",PT: AXN Movies HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76312.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN White FHD" tvg-logo="http://client.more-itv.com:8080/images/707193de7cf8e937a6341edc5186fee2.png" group-title="Portugal Channels",PT: AXN White FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11349.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN White HD" tvg-logo="http://client.more-itv.com:8080/images/707193de7cf8e937a6341edc5186fee2.png" group-title="Portugal Channels",PT: AXN White HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/121635.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: Sport TV 4 SD" tvg-logo="https://picon.mixcam.xyz/sport-tv-4-pt.png" group-title="Portugal Channels",PT: Sport TV 4 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172795.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ PT | International ۩ ###" tvg-logo="" group-title="Portugal Channels",### ۩ PT | International ۩ ###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76213.ts
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT: Euronews" tvg-logo="https://static.epg.best/de/Euronews.de.png" group-title="Portugal Channels",PT: Euronews
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11392.ts
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="PT: Record TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="Portugal Channels",PT: Record TV HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11400.ts
+#EXTINF:-1 tvg-id="globonews.pt" tvg-name="PT: TV Globo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="Portugal Channels",PT: TV Globo News HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11401.ts
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: TV Globo HD" tvg-logo="https://static.epg.best/cl/TVGlobo.cl.png" group-title="Portugal Channels",PT: TV Globo HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11402.ts
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: TV Globo FHD" tvg-logo="https://static.epg.best/cl/TVGlobo.cl.png" group-title="Portugal Channels",PT: TV Globo FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11431.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: TV Fatima HD" tvg-logo="https://www.fatima.pt/img/layout/tile-wide.png" group-title="Portugal Channels",PT: TV Fatima HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11403.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ PT | Kids ۩ ###" tvg-logo="" group-title="Portugal Channels",### ۩ PT | Kids ۩ ###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76204.ts
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="PT: Disney Junior HD" tvg-logo="https://static.epg.best/pt/DisneyJunior.pt.png" group-title="Portugal Channels",PT: Disney Junior HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11439.ts
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: Disney Channel HD" tvg-logo="https://static.epg.best/pt/DisneyChannel.pt.png" group-title="Portugal Channels",PT: Disney Channel HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11440.ts
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: Nickelodeon FHD" tvg-logo="https://anibproductions.files.wordpress.com/2017/02/nickelodeon_logo_2009.png" group-title="Portugal Channels",PT: Nickelodeon FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11426.ts
+#EXTINF:-1 tvg-id="nickjr.pt" tvg-name="PT: Nick Jr. FHD" tvg-logo="https://static.epg.best/pt/NickJr.pt.png" group-title="Portugal Channels",PT: Nick Jr. FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/92840.ts
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: PT: SIC K FHD" tvg-logo="" group-title="Portugal Channels",PT: PT: SIC K FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172804.ts
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Portugal Channels",PT: SIC K HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76201.ts
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: Panda Kids HD" tvg-logo="" group-title="Portugal Channels",PT: Panda Kids HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172791.ts
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: Canal Panda HD" tvg-logo="https://static.epg.best/pt/Panda.pt.png" group-title="Portugal Channels",PT: Canal Panda HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11447.ts
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: Biggs" tvg-logo="https://static.epg.best/pt/Biggs.pt.png" group-title="Portugal Channels",PT: Biggs
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11453.ts
+#EXTINF:-1 tvg-id="boomerang.pt" tvg-name="PT: Boomerang" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Portugal Channels",PT: Boomerang
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/154022.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT: Cartoon Network HD" tvg-logo="https://static.epg.best/pt/CartoonNetwork.pt.png" group-title="Portugal Channels",PT: Cartoon Network HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11444.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Cartoonito HD" tvg-logo="https://static.epg.best/it/Cartoonito.it.png" group-title="Portugal Channels",PT: Cartoonito HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/190329.ts
+#EXTINF:-1 tvg-id="babytv.pt" tvg-name="PT: Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Portugal Channels",PT: Baby TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/141705.ts
+#EXTINF:-1 tvg-id="lolly.kids.pt" tvg-name="PT: Lolly Kids" tvg-logo="https://www.lollykidstv.com/wp-content/uploads/2019/12/lollykids01-bg-1.png" group-title="Portugal Channels",PT: Lolly Kids
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/146637.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ PT | Documentary ۩###" tvg-logo="" group-title="Portugal Channels",### ۩ PT | Documentary ۩###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76208.ts
+#EXTINF:-1 tvg-id="discoverychannelhd.pt" tvg-name="PT: Discovery Channel FHD" tvg-logo="https://static.epg.best/pt/DiscoveryChannel.pt.png" group-title="Portugal Channels",PT: Discovery Channel FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/104987.ts
+#EXTINF:-1 tvg-id="discoverychannelhd.pt" tvg-name="PT: Discovery Channel HD" tvg-logo="https://static.epg.best/pt/DiscoveryChannel.pt.png" group-title="Portugal Channels",PT: Discovery Channel HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11442.ts
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA FHD" tvg-logo="https://static.epg.best/pt/Odisseia.pt.png" group-title="Portugal Channels",PT: ODISSEIA FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/148210.ts
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA HD" tvg-logo="https://static.epg.best/pt/Odisseia.pt.png" group-title="Portugal Channels",PT: ODISSEIA HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11425.ts
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: National Geographic FHD" tvg-logo="https://static.epg.best/fi/NatGeo.fi.png" group-title="Portugal Channels",PT: National Geographic FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/114521.ts
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: National Geographic HD" tvg-logo="https://static.epg.best/fi/NatGeo.fi.png" group-title="Portugal Channels",PT: National Geographic HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11428.ts
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: Nat Geo Wild FHD" tvg-logo="https://static.epg.best/tr/NatGeoWild.tr.png" group-title="Portugal Channels",PT: Nat Geo Wild FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11427.ts
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: Nat Geo Wild HD" tvg-logo="https://static.epg.best/tr/NatGeoWild.tr.png" group-title="Portugal Channels",PT: Nat Geo Wild HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/193850.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Portugal Channels",PT: ID Investigation Discovery FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/105167.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Portugal Channels",PT: ID Investigation Discovery HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/105168.ts
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: Travel Channel FHD" tvg-logo="https://static.epg.best/pt/TravelChannel.pt.png" group-title="Portugal Channels",PT: Travel Channel FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11404.ts
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: Historia FHD" tvg-logo="https://static.epg.best/ca/Historia.ca.png" group-title="Portugal Channels",PT: Historia FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/173812.ts
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: Historia" tvg-logo="https://static.epg.best/ca/Historia.ca.png" group-title="Portugal Channels",PT: Historia
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11435.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: A&E FHD" tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="Portugal Channels",PT: A&E FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11455.ts
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="PT: Bloomberg" tvg-logo="https://static.epg.best/ae/Bloomberg.ae.png" group-title="Portugal Channels",PT: Bloomberg
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11452.ts
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="PT: Food Network HD" tvg-logo="https://static.epg.best/pt/FoodNetwork.pt.png" group-title="Portugal Channels",PT: Food Network HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/80809.ts
+#EXTINF:-1 tvg-id="tcvinternational.pt" tvg-name="PT: TCV Internacional" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tcv-logo.png" group-title="Portugal Channels",PT: TCV Internacional
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172797.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩ PT | Sports ۩ ###" tvg-logo="" group-title="Portugal Sports",### ۩ PT | Sports ۩ ###
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/76205.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV+ HD" tvg-logo="https://static.epg.best/pt/SportTVPlus.pt.png" group-title="Portugal Sports",PT: SPORT TV+ HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11352.ts
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV+ FHD" tvg-logo="https://static.epg.best/pt/SportTVPlus.pt.png" group-title="Portugal Sports",PT: SPORT TV+ FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/114536.ts
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="Portugal Sports",PT: CANAL 11 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/58943.ts
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="Portugal Sports",PT: CANAL 11 HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/114534.ts
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="Portugal Sports",PT: CANAL 11 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/114535.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: Sport TV 1 FHD ( MEO )" tvg-logo="https://picon.mixcam.xyz/sport-tv-1-pt.png" group-title="Portugal Sports",PT: Sport TV 1 FHD ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11355.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD ( NOS )" tvg-logo="https://picon.mixcam.xyz/sport-tv-1-pt.png" group-title="Portugal Sports",PT: SPORT TV 1 FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/126254.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD HEVC" tvg-logo="https://picon.mixcam.xyz/sport-tv-1-pt.png" group-title="Portugal Sports",PT: SPORT TV 1 HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11354.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: Sport TV 1 SD" tvg-logo="https://picon.mixcam.xyz/sport-tv-1-pt.png" group-title="Portugal Sports",PT: Sport TV 1 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/175746.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: Sport TV 2 FHD ( MEO )" tvg-logo="https://picon.mixcam.xyz/sport-tv-2-pt.png" group-title="Portugal Sports",PT: Sport TV 2 FHD ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11357.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: Sport TV 2 FHD ( NOS )" tvg-logo="https://picon.mixcam.xyz/sport-tv-2-pt.png" group-title="Portugal Sports",PT: Sport TV 2 FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/146628.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: Sport TV 2 HD HEVC" tvg-logo="https://picon.mixcam.xyz/sport-tv-2-pt.png" group-title="Portugal Sports",PT: Sport TV 2 HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/108876.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: Sport TV 2 SD" tvg-logo="https://picon.mixcam.xyz/sport-tv-2-pt.png" group-title="Portugal Sports",PT: Sport TV 2 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11356.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: Sport TV 3 FHD ( MEO )" tvg-logo="https://picon.mixcam.xyz/sport-tv-3-pt.png" group-title="Portugal Sports",PT: Sport TV 3 FHD ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11359.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD ( NOS )" tvg-logo="https://picon.mixcam.xyz/sport-tv-3-pt.png" group-title="Portugal Sports",PT: SPORT TV 3 FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172782.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: Sport TV 3 HD HEVC" tvg-logo="https://picon.mixcam.xyz/sport-tv-3-pt.png" group-title="Portugal Sports",PT: Sport TV 3 HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/108877.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: Sport TV 3 SD" tvg-logo="https://picon.mixcam.xyz/sport-tv-3-pt.png" group-title="Portugal Sports",PT: Sport TV 3 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11358.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: Sport TV 4 FHD ( MEO )" tvg-logo="https://picon.mixcam.xyz/sport-tv-4-pt.png" group-title="Portugal Sports",PT: Sport TV 4 FHD ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11361.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD ( NOS )" tvg-logo="https://picon.mixcam.xyz/sport-tv-4-pt.png" group-title="Portugal Sports",PT: SPORT TV 4 FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172781.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: Sport TV 4 HD HEVC" tvg-logo="https://picon.mixcam.xyz/sport-tv-4-pt.png" group-title="Portugal Sports",PT: Sport TV 4 HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11360.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: Sport TV 5 FHD ( MEO )" tvg-logo="https://picon.mixcam.xyz/sport-tv-5-pt.png" group-title="Portugal Sports",PT: Sport TV 5 FHD ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11363.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD ( NOS )" tvg-logo="https://picon.mixcam.xyz/sport-tv-5-pt.png" group-title="Portugal Sports",PT: SPORT TV 5 FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172780.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: Sport TV 5 HD HEVC" tvg-logo="https://picon.mixcam.xyz/sport-tv-5-pt.png" group-title="Portugal Sports",PT: Sport TV 5 HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/108878.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: Sport TV 5 SD" tvg-logo="https://picon.mixcam.xyz/sport-tv-5-pt.png" group-title="Portugal Sports",PT: Sport TV 5 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11362.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: Sport TV 6 FHD ( MEO )" tvg-logo="https://picon.mixcam.xyz/sport-tv-6-pt.png" group-title="Portugal Sports",PT: Sport TV 6 FHD ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/146621.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 FHD ( NOS )" tvg-logo="https://picon.mixcam.xyz/sport-tv-5-pt.png" group-title="Portugal Sports",PT: SPORT TV 6 FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172779.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: Sport TV 6 HEVC" tvg-logo="https://picon.mixcam.xyz/sport-tv-6-pt.png" group-title="Portugal Sports",PT: Sport TV 6 HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/146622.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: Sport TV 6 SD" tvg-logo="https://picon.mixcam.xyz/sport-tv-6-pt.png" group-title="Portugal Sports",PT: Sport TV 6 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/146623.ts
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: Sport TV 7 FHD" tvg-logo="https://picon.mixcam.xyz/sport-tv-7-pt.png" group-title="Portugal Sports",PT: Sport TV 7 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172803.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 7 HD" tvg-logo="https://picon.mixcam.xyz/sport-tv-7-pt.png" group-title="Portugal Sports",PT: Sport TV 7 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172819.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 7 SD" tvg-logo="https://picon.mixcam.xyz/sport-tv-7-pt.png" group-title="Portugal Sports",PT: Sport TV 7 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/172774.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: DAZN 1 FHD  ( MEO )" tvg-logo="https://picon.mixcam.xyz/DAZN_1_2024.png" group-title="Portugal Sports",PT: DAZN 1 FHD  ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11366.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: DAZN 1 FHD ( NOS )" tvg-logo="https://picon.mixcam.xyz/DAZN_1_2024.png" group-title="Portugal Sports",PT: DAZN 1 FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/52588.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: DAZN 1 HD" tvg-logo="https://picon.mixcam.xyz/DAZN_1_2024.png" group-title="Portugal Sports",PT: DAZN 1 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11365.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: DAZN 1 SD" tvg-logo="https://picon.mixcam.xyz/DAZN_1_2024.png" group-title="Portugal Sports",PT: DAZN 1 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11364.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: DAZN 2 FHD ( MEO )" tvg-logo="https://picon.mixcam.xyz/DAZN_2_2024.png" group-title="Portugal Sports",PT: DAZN 2 FHD ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11369.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: DAZN 2 FHD ( NOS )" tvg-logo="https://picon.mixcam.xyz/DAZN_2_2024.png" group-title="Portugal Sports",PT: DAZN 2 FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/189106.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: DAZN 2 HD" tvg-logo="https://picon.mixcam.xyz/DAZN_2_2024.png" group-title="Portugal Sports",PT: DAZN 2 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11368.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: DAZN 2 SD" tvg-logo="https://picon.mixcam.xyz/DAZN_2_2024.png" group-title="Portugal Sports",PT: DAZN 2 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11367.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: DAZN 3 FHD" tvg-logo="https://picon.mixcam.xyz/DAZN_3_2024.png" group-title="Portugal Sports",PT: DAZN 3 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11372.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: DAZN 3 HD" tvg-logo="https://picon.mixcam.xyz/DAZN_3_2024.png" group-title="Portugal Sports",PT: DAZN 3 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11371.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: DAZN 3 SD" tvg-logo="https://picon.mixcam.xyz/DAZN_3_2024.png" group-title="Portugal Sports",PT: DAZN 3 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11370.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: DAZN 4 FHD" tvg-logo="https://picon.mixcam.xyz/DAZN_4_2024.png" group-title="Portugal Sports",PT: DAZN 4 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11375.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: DAZN 4 HD" tvg-logo="https://picon.mixcam.xyz/DAZN_4_2024.png" group-title="Portugal Sports",PT: DAZN 4 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11374.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: DAZN 4 SD" tvg-logo="https://picon.mixcam.xyz/DAZN_4_2024.png" group-title="Portugal Sports",PT: DAZN 4 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11373.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: DAZN 5 FHD" tvg-logo="https://picon.mixcam.xyz/DAZN_5_2024.png" group-title="Portugal Sports",PT: DAZN 5 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11378.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: DAZN 5 HD" tvg-logo="https://picon.mixcam.xyz/DAZN_5_2024.png" group-title="Portugal Sports",PT: DAZN 5 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11377.ts
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: DAZN 5 SD" tvg-logo="https://picon.mixcam.xyz/DAZN_5_2024.png" group-title="Portugal Sports",PT: DAZN 5 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11376.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: DAZN 6 FHD" tvg-logo="https://picon.mixcam.xyz/DAZN_6_2024.png" group-title="Portugal Sports",PT: DAZN 6 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11381.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: DAZN 6 HD" tvg-logo="https://picon.mixcam.xyz/DAZN_6_2024.png" group-title="Portugal Sports",PT: DAZN 6 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11380.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: DAZN 6 SD" tvg-logo="https://picon.mixcam.xyz/DAZN_6_2024.png" group-title="Portugal Sports",PT: DAZN 6 SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11379.ts
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT: Benfica TV FHD ( MEO )" tvg-logo="https://static.epg.best/pt/BenficaTV1.pt.png" group-title="Portugal Sports",PT: Benfica TV FHD ( MEO )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11383.ts
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT: Benfica TV FHD ( NOS )" tvg-logo="https://static.epg.best/pt/BenficaTV1.pt.png" group-title="Portugal Sports",PT: Benfica TV FHD ( NOS )
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/135391.ts
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT: Benfica TV HD HEVC" tvg-logo="https://static.epg.best/pt/BenficaTV1.pt.png" group-title="Portugal Sports",PT: Benfica TV HD HEVC
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11449.ts
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT: Benfica TV SD" tvg-logo="https://static.epg.best/pt/BenficaTV1.pt.png" group-title="Portugal Sports",PT: Benfica TV SD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/114239.ts
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: Sporting TV FHD" tvg-logo="https://static.epg.best/pt/SportingTV.pt.png" group-title="Portugal Sports",PT: Sporting TV FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11382.ts
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV HD ʰᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="Portugal Sports",PT: A Bola TV HD ʰᵉᵛᶜ
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/114238.ts
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV" tvg-logo="https://static.epg.best/pt/ABolaTV.pt.png" group-title="Portugal Sports",PT: A Bola TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11456.ts
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: Porto Canal" tvg-logo="https://static.epg.best/pt/Porto.pt.png" group-title="Portugal Sports",PT: Porto Canal
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11422.ts
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: Porto Canal FHD" tvg-logo="https://static.epg.best/pt/Porto.pt.png" group-title="Portugal Sports",PT: Porto Canal FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/94609.ts
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: Motorvision TV" tvg-logo="https://static.epg.best/gr/Motorvision.gr.png" group-title="Portugal Sports",PT: Motorvision TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11385.ts
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: Motors tv" tvg-logo="https://www.motorvision.tv/mv_logo_4.png" group-title="Portugal Sports",PT: Motors tv
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11386.ts
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT: PFC HD" tvg-logo="https://static.epg.best/pt/PFC.pt.png" group-title="Portugal Sports",PT: PFC HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11424.ts
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: Eurosport 1 FHD" tvg-logo="https://static.epg.best/pt/Eurosport1.pt.png" group-title="Portugal Sports",PT: Eurosport 1 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11389.ts
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: Eurosport 1 HD" tvg-logo="https://static.epg.best/pt/Eurosport1.pt.png" group-title="Portugal Sports",PT: Eurosport 1 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11388.ts
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: Eurosport 2 FHD" tvg-logo="https://static.epg.best/pt/Eurosport2.pt.png" group-title="Portugal Sports",PT: Eurosport 2 FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11390.ts
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: Eurosport 2 HD" tvg-logo="https://static.epg.best/pt/Eurosport2.pt.png" group-title="Portugal Sports",PT: Eurosport 2 HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/55487.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: Sport TV NBA FHD" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Portugal Sports",PT: Sport TV NBA FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/146624.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: Sport TV NBA HD" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Portugal Sports",PT: Sport TV NBA HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11391.ts
+#EXTINF:-1 tvg-id="wsport.pt" tvg-name="PT: W-Sport FHD" tvg-logo="https://i.ibb.co/BqC72Nf/logo2nd-svg.png" group-title="Portugal Sports",PT: W-Sport FHD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/176072.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Mundotoro TV" tvg-logo="https://www.burladero.tv/u/fotografias/fotosnoticias/2023/4/4/229992.png" group-title="Portugal Sports",PT: Mundotoro TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/43254.ts
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: Fuel TV HD" tvg-logo="https://ewsat.com/img/FUEL.png" group-title="Portugal Sports",PT: Fuel TV HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11436.ts
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT: Toros TV" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="Portugal Sports",PT: Toros TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11406.ts
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT: Caçavision" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2020/05/CACAVISION.png" group-title="Portugal Sports",PT: Caçavision
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11450.ts
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT: Caza Y Pesca" tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="Portugal Sports",PT: Caza Y Pesca
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11451.ts
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: Kombat Sport" tvg-logo="https://static.epg.best/pt/KombatSport.pt.png" group-title="Portugal Sports",PT: Kombat Sport
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/11393.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: RTP Arena HD" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/rtpArena_vertical_positivo.png" group-title="Portugal Sports",PT: RTP Arena HD
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/55501.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Campo Pequeno TV" tvg-logo="" group-title="Portugal Sports",PT: Campo Pequeno TV
+http://4dnstv.xyz:80/live/mxtv95/st2qsr/175747.ts
