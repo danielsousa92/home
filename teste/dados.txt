@@ -1,3 +1,7 @@
 semana=16/06/2026 a 22/06/2026
 gasoleo=Aumentar
-gasolina=Descer
+gasolina=Igual
+
+Aumentar
+Descer
+Igual
