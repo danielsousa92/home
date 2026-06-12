@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão dos Combustíveis</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background: #f4f6f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .card {
+            background: white;
+            width: 100%;
+            max-width: 500px;
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #1f2937;
+            margin-bottom: 10px;
+        }
+
+        .week {
+            text-align: center;
+            color: #6b7280;
+            margin-bottom: 30px;
+        }
+
+        .fuel {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 18px;
+            border-radius: 12px;
+            margin-bottom: 15px;
+            background: #f9fafb;
+        }
+
+        .fuel-name {
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+
+        .status {
+            padding: 8px 14px;
+            border-radius: 999px;
+            color: white;
+            font-weight: bold;
+        }
+
+        .up {
+            background: #dc2626;
+        }
+
+        .down {
+            background: #16a34a;
+        }
+
+        .same {
+            background: #6b7280;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>⛽ Previsão dos Combustíveis</h1>
+
+    <div class="week" id="semana">
+        A carregar...
+    </div>
+
+    <div class="fuel">
+        <span class="fuel-name">Gasóleo</span>
+        <span id="gasoleo" class="status">...</span>
+    </div>
+
+    <div class="fuel">
+        <span class="fuel-name">Gasolina</span>
+        <span id="gasolina" class="status">...</span>
+    </div>
+</div>
+
+<script>
+async function carregarDados() {
+    const resposta = await fetch("dados.txt");
+    const texto = await resposta.text();
+
+    const dados = {};
+
+    texto.split("\n").forEach(linha => {
+        const [chave, valor] = linha.split("=");
+        if (chave && valor) {
+            dados[chave.trim()] = valor.trim();
+        }
+    });
+
+    document.getElementById("semana").textContent =
+        "Semana de " + dados.semana;
+
+    atualizarCombustivel("gasoleo", dados.gasoleo);
+    atualizarCombustivel("gasolina", dados.gasolina);
+}
+
+function atualizarCombustivel(id, estado) {
+    const elemento = document.getElementById(id);
+
+    elemento.classList.remove("up", "down", "same");
+
+    switch (estado.toLowerCase()) {
+        case "aumentar":
+            elemento.classList.add("up");
+            elemento.textContent = "Aumentar ↑";
+            break;
+
+        case "descer":
+            elemento.classList.add("down");
+            elemento.textContent = "Descer ↓";
+            break;
+
+        default:
+            elemento.classList.add("same");
+            elemento.textContent = "Igual →";
+    }
+}
+
+carregarDados();
+</script>
+
+</body>
+</html>
